@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+          "name":" This is a Java Courses",
+         "img":"https://www.dremendo.com/java-programming-tutorial/images/java-programming-tutorial.jpg",
+        "discripetion":"Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development.collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it.  centers, game consoles, scientific supercomputers, cell phones, etc.",
+        "price":"2000"
+    }
+]
