@@ -14,5 +14,14 @@
          "discripetion":" Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.",
 
          "price" :"5000"
-    }
+    },
+
+    {"id":3,
+       
+      "name":"PHP Courese",
+      "img":"https://www.smartmentors.net/wp-content/uploads/2019/05/PHP-is-a-Right-Server-Side-Programming-Language-to-Learn.jpg",
+
+        "discripetion":"The abbreviation PHP initially stood for Personal Homepage. But now it is a recursive acronym for Hypertext Preprocessor. It's recursive in the sense that the first word itself is an abbreviation, so the full meaning doesn't follow the abbreviation. "
+      
+}
 ]
