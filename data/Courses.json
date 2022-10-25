@@ -23,5 +23,36 @@
 
         "discripetion":"The abbreviation PHP initially stood for Personal Homepage. But now it is a recursive acronym for Hypertext Preprocessor. It's recursive in the sense that the first word itself is an abbreviation, so the full meaning doesn't follow the abbreviation. "
       
+},
+
+
+
+{
+    "id": 4,
+      "name":" This is a JavaScript Courses",
+     "img":"https://i.pinimg.com/736x/bb/c5/19/bbc519cc8835d7c9b6708e072df9b302.jpg",
+    "discripetion":"Many browsers use JavaScript as a scripting language for doing dynamic things on the web. Any time you see a click-to-show dropdown menu, extra content added to a page, and dynamically changing element colors on a page, to name a few features, you're seeing the effects of JavaScript.Without JavaScript, all you would have on the web would be HTML and CSS. These alone limit you to a few web page implementations. 90% (if not more) of your webpages would be static, and you'd only have the dynami",
+    " price":"6000"
+},
+
+{
+    "id": 5,
+     "name":" This is a Ruby Courses",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78_Wf6ABN3IcLU9EiyBXGsKBi4oKGZwwELA&usqp=CAU",
+     "discripetion":" The Ruby programming language is a highly portable general-purpose language that serves many purposes.Ruby is great for building desktop applications, static websites, data processing services, and even automation tools. It used for web servers, DevOps, and web scraping and crawling. And when you add in the functionality of the Rails application framework, you can do even more, especially database-driven web applications.",
+
+     "price" :"3000"
+},
+
+{"id":6,
+   
+  "name":"C++ Courese",
+  "img":"https://i.ytimg.com/vi/BClS40yzssA/maxresdefault.jpg",
+
+    "discripetion":"The problem with these languages was that they were targeted at a certain group of people – FORTRAN for engineers and scientists and COBOL for business people.Then during the 60s a new language called Simula surfaced and introduced the concept of a class, which sort of let anyone make software for their special fields. ",
+
+    "price":"4000"
+  
 }
+
 ]
