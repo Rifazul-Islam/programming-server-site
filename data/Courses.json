@@ -4,7 +4,7 @@
           "name":" This is a Java Courses",
          "img":"https://www.dremendo.com/java-programming-tutorial/images/java-programming-tutorial.jpg",
         "discripetion":"Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development.collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it.  centers, game consoles, scientific supercomputers, cell phones, etc.",
-        " price":"2000"
+        "price":"2000"
     },
 
     {
@@ -21,7 +21,8 @@
       "name":"PHP Courese",
       "img":"https://www.smartmentors.net/wp-content/uploads/2019/05/PHP-is-a-Right-Server-Side-Programming-Language-to-Learn.jpg",
 
-        "discripetion":"The abbreviation PHP initially stood for Personal Homepage. But now it is a recursive acronym for Hypertext Preprocessor. It's recursive in the sense that the first word itself is an abbreviation, so the full meaning doesn't follow the abbreviation. "
+        "discripetion":"The abbreviation PHP initially stood for Personal Homepage. But now it is a recursive acronym for Hypertext Preprocessor. It's recursive in the sense that the first word itself is an abbreviation, so the full meaning doesn't follow the abbreviation.",
+        "price" :"7000"
       
 },
 
@@ -32,7 +33,7 @@
       "name":" This is a JavaScript Courses",
      "img":"https://i.pinimg.com/736x/bb/c5/19/bbc519cc8835d7c9b6708e072df9b302.jpg",
     "discripetion":"Many browsers use JavaScript as a scripting language for doing dynamic things on the web. Any time you see a click-to-show dropdown menu, extra content added to a page, and dynamically changing element colors on a page, to name a few features, you're seeing the effects of JavaScript.Without JavaScript, all you would have on the web would be HTML and CSS. These alone limit you to a few web page implementations. 90% (if not more) of your webpages would be static, and you'd only have the dynami",
-    " price":"6000"
+    "price":"6000"
 },
 
 {
